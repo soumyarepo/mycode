@@ -10,3 +10,6 @@
 
 # Ignore .tfstate.backup
 .tfstate.backup
+
+.tfstate
+
