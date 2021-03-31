@@ -1,0 +1,12 @@
+# Ignore terraform.lock
+.terraform.lock.hcl
+
+
+# Ignore .terraform/
+.terraform/
+
+# Ignore .tfstate
+.tfstate
+
+# Ignore .tfstate.backup
+.tfstate.backup
